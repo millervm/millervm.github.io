@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "The Excitement Builds: My Journey to a Coding Career"
+date:   2017-09-18 17:10:47 +0000
+---
+
+
+Now that I am a full three months into my experience as a Learn student, I have had ample time to develop a decent understanding of what the program, and coding, in general, entails. What I’ve learned so far is that I’m now even more enthusiastic about coding than I was when I first enrolled. And further, the elements of the coursework that I’m enjoying most are consistent with the reasons why I was drawn to coding in the first place. Overall, my expectations about enrolling in the program have not only been met, but exceeded.
+
+One of the primary reasons why I enjoy coding is that learning a programming language is like learning any other language. Many of the same concepts are applicable to learning a language like Ruby: vocabulary and terminology, spelling and punctuation, case, etc. And, of course, the purpose of learning a programming language, like any other language, is communication. Writing code allows a programmer to tell a system what to do in order to achieve a given result. If there’s an error, the parsed message might not be accurate, if it can be transmitted at all. Something as simple as a misspelled or misplaced word can cause a major problem, as basic syntax is just as important as the code’s content. One of my high school teachers told me I had “a knack for languages”, and this has been a useful skill as I've completed the Ruby lessons. Being able to learn how to write the code without much issue makes it easier to focus on how to use it.
+
+Another significant aspect of coding that intrigues me is that programmers can communicate with each other via their code. As long as they share a knowledge of the programming language, people all over the world can collaborate on the same project. And the process itself is dynamic, so it isn’t a matter of simply sending messages back and forth. Coders can actively update existing code, add new code, and otherwise build up the overall product piece by piece, wherever they are. It’s quite exciting to think about the opportunities that are made possible by these shared languages.
+
+Also, because there is, to me, no “wrong” way to code, it also allows for a large degree of creative expression. As long as the desired result is achieved, each coder can have their own unique approach to a project. Writing code is somewhat like an art, and I find that fascinating. If you told a room full of artists to paint a landscape, you’d get a selection of paintings that depicted the same subject in many different ways, with no two being the same. Likewise, a number of coders who are each creating, say, a Tic Tac Toe game would produce multiple versions of code that may be similar, but each would almost certainly contain some unique details.
+
+Similar to how I appreciate that coding allows me to express my creativity, I also enjoy that it satisfies my love of puzzles. Problem-solving is a large part of coding, and I enjoy the challenge of piecing code together until the desired outcome is achieved. In general, coders start out with the answer, the expected outcome, and work backwards to find the solution, the code that yields that result. It can be a frustrating process, but I think it’s also quite satisfying once the goal is reached. 
+
+Needless to say, I’m very pleased with my coding education so far, and I’m eager to continue through the coursework as quickly as possible to discover what awaits. Embarking on the path to becoming a coder was a good decision, and I’m grateful for the opportunity to complete the Learn program as I work towards my career change. In fact, I spend most workdays eager to leave the office and code. There is still a lot of work to be done, so for now, I’m off to the next coding task!
+

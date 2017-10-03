@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "The Slow but Steady Process to Create my CLI Gem"
+title:      "Creating my CLI Gem, the Slow but Steady Process"
 date:       2017-10-03 17:08:34 -0400
 permalink:  the_slow_but_steady_process_to_create_my_cli_gem
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Creating a Basic CMS Using Sinatra, My Way"
-date:       2018-01-28 22:35:08 +0000
+title:      "Using Sinatra to Create a Basic CMS, My Way"
+date:       2018-01-28 17:35:09 -0500
 permalink:  creating_a_basic_cms_using_sinatra_my_way
 ---
 
